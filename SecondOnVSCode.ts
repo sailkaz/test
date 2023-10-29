@@ -1,1 +1,1 @@
-edycja pliku 
+const a=5
